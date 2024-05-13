@@ -1,6 +1,6 @@
-package for_continue;
+package matematica;
 
-public class for_continue {
+public class modulo {
 
 	public static void main(String[] args) {
 		
