@@ -10,7 +10,5 @@ public class for_continue {
 		int pessoa = 2;
 		
 		System.out.println("O resto da divisão é: " + (carro % pessoa));
-		
-
 	}
 }
